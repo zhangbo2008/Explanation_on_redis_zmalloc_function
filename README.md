@@ -1,4 +1,5 @@
 # Explanation_on_redis_zmalloc_function
+直接运行下面代码,看里面注释.保存下面为1.c 然后 gcc -g 1.c即可
 
 
 ```
